@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Fraunces:ital,wght@0,500;0,600;0,700;1,600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+  font-family: "DM Sans", sans-serif;
+  /* font-size: 1rem; */
+  line-height: 1.5;
+  color: #484847;
+  text-align: justify;
+}
+
+#img-1{
+    width: 700px;
+}
+#img-2{
+    width: 700px;
+}

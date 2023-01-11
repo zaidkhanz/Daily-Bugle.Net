@@ -1,0 +1,183 @@
+
+@import '//fonts.googleapis.com/css?family=Droid Sans Mono:light,lightitalic,normal,italic,bold,bolditalic';
+
+    .form-label-left{
+        width:150px;
+    }
+    .form-line{
+        padding-top:12px;
+        padding-bottom:12px;
+    }
+    .form-label-right{
+        width:150px;
+    }
+    .form-all{
+        width:690px;
+        color:#cccccc !important;
+        font-family:'Droid Sans Mono';
+        font-size:14px;
+    }
+    .form-radio-item label, .form-checkbox-item label, .form-grading-label, .form-header{
+        color: false;
+    }
+
+    /* Injected CSS Code */
+/*PREFERENCES STYLE*/
+
+    .form-all {
+      font-family: Droid Sans Mono, sans-serif;
+    }
+    .form-all .qq-upload-button,
+    .form-all .form-submit-button,
+    .form-all .form-submit-reset,
+    .form-all .form-submit-print {
+      font-family: Droid Sans Mono, sans-serif;
+    }
+    .form-all .form-pagebreak-back-container,
+    .form-all .form-pagebreak-next-container {
+      font-family: Droid Sans Mono, sans-serif;
+    }
+    .form-header-group {
+      font-family: Droid Sans Mono, sans-serif;
+    }
+    .form-label {
+      font-family: Droid Sans Mono, sans-serif;
+    }
+  
+    .form-label.form-label-auto {
+      
+    display: inline-block;
+    float: left;
+    text-align: left;
+  
+    }
+  
+    .form-line {
+      margin-top: 12px 36px 12px 36px px;
+      margin-bottom: 12px 36px 12px 36px px;
+    }
+  
+    .form-all {
+      max-width: 690px;
+      width: 100%;
+    }
+  
+    .form-label.form-label-left,
+    .form-label.form-label-right,
+    .form-label.form-label-left.form-label-auto,
+    .form-label.form-label-right.form-label-auto {
+      width: 150px;
+    }
+  
+    .form-all {
+      font-size: 14pxpx
+    }
+    .form-all .qq-upload-button,
+    .form-all .qq-upload-button,
+    .form-all .form-submit-button,
+    .form-all .form-submit-reset,
+    .form-all .form-submit-print {
+      font-size: 14pxpx
+    }
+    .form-all .form-pagebreak-back-container,
+    .form-all .form-pagebreak-next-container {
+      font-size: 14pxpx
+    }
+  
+    .supernova .form-all, .form-all {
+      background-color: #4e4e4e;
+    }
+  
+    .form-all {
+      color: #cccccc;
+    }
+    .form-header-group .form-header {
+      color: #cccccc;
+    }
+    .form-header-group .form-subHeader {
+      color: #cccccc;
+    }
+    .form-label-top,
+    .form-label-left,
+    .form-label-right,
+    .form-html,
+    .form-checkbox-item label,
+    .form-radio-item label,
+    span.FITB .qb-checkbox-label,
+    span.FITB .qb-radiobox-label,
+    span.FITB .form-radio label,
+    span.FITB .form-checkbox label,
+    [data-blotid][data-type=checkbox] [data-labelid],
+    [data-blotid][data-type=radiobox] [data-labelid],
+    span.FITB-inptCont[data-type=checkbox] label,
+    span.FITB-inptCont[data-type=radiobox] label {
+      color: #cccccc;
+    }
+    .form-sub-label {
+      color: #e6e6e6;
+    }
+  
+    .supernova {
+      background-color: #3e3e3e;
+    }
+    .supernova body {
+      background: transparent;
+    }
+  
+    .form-textbox,
+    .form-textarea,
+    .form-dropdown,
+    .form-radio-other-input,
+    .form-checkbox-other-input,
+    .form-captcha input,
+    .form-spinner input {
+      background-color: #3e3e3e;
+    }
+  
+    .supernova {
+      background-image: none;
+    }
+    #stage {
+      background-image: none;
+    }
+  
+    .form-all {
+      background-image: none;
+    }
+  
+    .form-all {
+      position: relative;
+    }
+    .form-all:before {
+      content: "";
+      background-image: url("https://www.jotform.com/uploads/kzaid7728/form_files/logo.63bdbacc212662.90229963.png");
+      display: inline-block;
+      height: 140px;
+      position: absolute;
+      background-size: 650px 140px;
+      background-repeat: no-repeat;
+      width: 100%;
+    }
+    .form-all {
+      margin-top: 150px !important;
+    }
+    .form-all:before {
+      top: -150px;
+      background-position: top center;
+      left: 0;
+    }
+           
+  .ie-8 .form-all:before { display: none; }
+  .ie-8 {
+    margin-top: auto;
+    margin-top: initial;
+  }
+  
+  /*PREFERENCES STYLE*//*__INSPECT_SEPERATOR__*/
+   .form-label.form-label-auto {
+        display: inline-block;
+        float: left;
+        text-align: left;
+      
+      }
+    /* Injected CSS Code */
